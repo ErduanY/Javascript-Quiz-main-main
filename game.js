@@ -40,7 +40,7 @@ let questions = [
   },
 
   {
-    question: "What is Sweden in Swedish??",
+    question: "What is Sweden in Swedish?",
     choice1: "Svealand",
     choice2: "Svorje",
     choice3: "Sverige",
